@@ -26,8 +26,11 @@ let convertedValOfTrue = Boolean(isLoggedIn);
 
 let someNumber = 13;
 let convertedVal = String(someNumber);
-console.log(convertedVal);
-console.log(typeof convertedVal);
+// console.log(convertedVal);
+// console.log(typeof convertedVal);
 
-
-
+let conversion = 100;
+conversion++;
+console.log(conversion);
+++conversion;
+console.log(conversion);
