@@ -28,7 +28,7 @@
 // console.log(Math.abs(-4));
 // console.log(Math.round(4.6))
 // console.log(Math.ceil(4.2)) // It will return max round value
-// console.log(Math.floor(4.2)) //it will returen minimum round value 
+// console.log(Math.floor(4.2)) //it will return minimum round value 
 
 console.log(Math.random());
 console.log((Math.random()*10)+1);

@@ -1,8 +1,8 @@
 // **********Primitive*************
 
-// 7 types: String,Number,Boolean,null, undefined, Symobol, BigInt
+// 7 types: String,Number,Boolean,null, undefined, Symbol, BigInt
 
-// **********Reference type / Non-premitive*************
+// **********Reference type / Non-primitive*************
 
     
 // Array, Objects, Functions
@@ -10,7 +10,7 @@
 
 // ***********************************************************
 
-// Stack (Primitive), Heap (NOn-Primitive)
+// Stack (Primitive), Heap (Non-Primitive)
 
 
 let myName = 'sujitthorat';

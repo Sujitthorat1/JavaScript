@@ -1,7 +1,7 @@
 "use strict"; // treat all JS code as newer version
 
 console.log(2
-+5) // code readability sould be high
++5) // code readability could be high
 
 console.log(2+4);
 

@@ -1,7 +1,6 @@
 let score = "33efr";
 
 // console.log(typeof score);
-// console.log(typeof(score));
 
 let valueInNumber = Number(score);
 
