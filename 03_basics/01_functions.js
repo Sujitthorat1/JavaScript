@@ -57,12 +57,12 @@ function loginUserMessage(username = "Sujit") {
 
 
 
-//rest operator (spred operator but here it is rest perator)
+//rest operator (spread operator but here it is rest operator)
 
-function calculatoCartPrice(...num1) {
+function calculatorCartPrice(...num1) {
     return num1
 }
-// console.log(calculatoCartPrice(200,300,400,600));
+// console.log(calculatorCartPrice(200,300,400,600));
 
 /******************************Output**********************/
 // @Sujitthorat1 ➜ /workspaces/JavaScript (main) $ node 03_basics/01_functions.js 
