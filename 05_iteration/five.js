@@ -22,7 +22,7 @@ function printMe(item, index, arr){
 
 
 
-//Complex oject1 (very important )
+//Complex object1 (very important )
 
 const myCoding =[
     {
