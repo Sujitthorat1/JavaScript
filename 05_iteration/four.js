@@ -2,7 +2,7 @@
 const myObject ={
     game1:"NFS",
     game2:'thor',
-    game3:"PUGB",
+    game3:"PUPG",
     game4:"free fire"
 }
 

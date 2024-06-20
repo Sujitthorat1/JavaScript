@@ -14,12 +14,12 @@ const map = new Map()
 map.set('IN', "India")
 map.set("USA", 'United state of America')
 map.set("Fr", 'france')
-map.set("IN", "India")  //Map values are the uniques so this map value is not going to print
+map.set("IN", "India")  //Map values are the unique so this map value is not going to print
 
 // console.log(map);
 
 for (const [key, value] of map) {
-    // console.log(key, ':-' , value);
+    console.log(key, ':-' , value);
     
 }
 
